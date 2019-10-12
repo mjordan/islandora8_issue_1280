@@ -1,0 +1,4 @@
+name: "Issue 1280 module"
+description: 'Module for work on https://github.com/Islandora-CLAW/CLAW/issues/1280'
+type: module
+core: 8.x
